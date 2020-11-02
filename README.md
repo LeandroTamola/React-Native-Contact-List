@@ -1,21 +1,19 @@
 # React Native Contact List app
 
-_This is a Contact List app developed in React Native, where the contacts are divided in favorites and others, and you can toggle there property_
+_This is a Contact List app developed in React Native, where the contacts are divided into favorites and others, and you can toggle their property_
 
 ## Getting Started 🚀
 
-_For getting the proyect in your local machine, you need to use clone your proyect._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
+_Clone the project to your local machine._
 
 
 ### Prerequisites 📋
 
 _Expo_
 
-_XCode in order to run the app in the iOS simulator_
+_XCode in order to run the app on the iOS simulator_
 
-_Android Studio or other Android Simulator in order to run the app in the Android simulator_
+_Android Studio or other Android Simulator in order to run the app on the Android simulator_
 
 ### installation 🔧
 
@@ -31,7 +29,7 @@ _Use Yarn in order to install dependencies_
 yarn
 ```
 
-_And now you can start the app by using one of this three commands_
+_Now you can start the app by using one of this three commands_
 
 ```
 yarn start 
@@ -55,6 +53,8 @@ yarn android
 ## Author ✒️
 
 * **Leandro Támola** - *Javascript Developer* 
+
+## Demo Image
 
 <img src="https://i.ibb.co/1fpdVjx/Simulator.jpg" alt="simulator" width="200"/>
 
