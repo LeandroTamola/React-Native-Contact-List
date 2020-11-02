@@ -55,3 +55,8 @@ yarn android
 ## Author ✒️
 
 * **Leandro Támola** - *Javascript Developer* 
+
+<img src="https://i.ibb.co/1fpdVjx/Simulator.jpg" alt="simulator" width="200"/>
+
+
+
