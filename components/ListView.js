@@ -22,7 +22,7 @@ const ListView = ({ navigation }) => {
     data.map((item) => {
       item.isFavorite === true ? favorites.push(item) : others.push(item);
     });
-  });
+  }, [data]);
 
   return (
     <View
