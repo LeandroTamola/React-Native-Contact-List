@@ -45,7 +45,13 @@ const ListRow = ({ item }) => {
           marginLeft: !item.isFavorite ? 25 : 0,
         }}
       >
-        <View style={{ display: "flex", flexDirection: "row" }}>
+        <View
+          style={{
+            display: "flex",
+            flexDirection: "row",
+            alignItems: "center",
+          }}
+        >
           {item.isFavorite && (
             <Image
               source={require("../assets/favorite_true.png")}

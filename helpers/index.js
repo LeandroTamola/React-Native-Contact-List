@@ -1,12 +1,7 @@
 import React from "react";
 
 const formatBirthdate = (string) => {
-  const options = {
-    year: "numeric",
-    month: "long",
-    day: "numeric",
-  };
-  const date = new Date(string).toLocaleString("en", options);
+  const date = new Date(string).toDateString().split(" ").slice(1).join(" ");
 
   return date;
 };
